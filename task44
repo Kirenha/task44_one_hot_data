@@ -11,7 +11,7 @@
 
 import pandas as pd
 import random
-import nympy as np
+import numpy as np
 lst = ['robot'] * 10
 lst += ['human'] * 10
 random.shuffle(lst)
